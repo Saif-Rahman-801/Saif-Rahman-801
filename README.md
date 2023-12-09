@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-rahman-801&label=Profile%20views&color=0e75b6&style=flat" alt="saif-rahman-801" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently working using **MERN**
 
 - 💬 Ask me about **MERN**
 
