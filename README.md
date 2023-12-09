@@ -1,5 +1,5 @@
 
-![MasterHead](./img/banner2.gif)
+![MasterHead](./img/banner4.jpg)
 <h1 align="center">Hi 👋, I'm Saif Rahman</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
