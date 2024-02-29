@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mW5Smgvey28moRDoE5tcjNmy-Jp1lyDM/view?usp=sharing](https://drive.google.com/file/d/1mW5Smgvey28moRDoE5tcjNmy-Jp1lyDM/view?usp=sharing)
 
-- ⚡ I love to **Write, Think and Read**
+- ⚡ I love to **Think, Read and Write**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
