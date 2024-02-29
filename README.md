@@ -1,15 +1,21 @@
 
 ![MasterHead](./img/banner2.gif)
 <h1 align="center">Hi 👋, I'm Saif Rahman</h1>
-<h3 align="center">A passionate full stack web developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-rahman-801&label=Profile%20views&color=0e75b6&style=flat" alt="saif-rahman-801" /> </p>
+- 🌱 I’m currently learning **MERN**
 
-- 🌱 I’m currently working using **MERN**
+- 👨‍💻 All of my projects are available at [https://voluble-bubblegum-be88dc.netlify.app](https://voluble-bubblegum-be88dc.netlify.app)
+
+- 📝 I regularly post on [https://www.linkedin.com/in/saif-rahman-72a659290](https://www.linkedin.com/in/saif-rahman-72a659290)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **saifurs102@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mW5Smgvey28moRDoE5tcjNmy-Jp1lyDM/view?usp=sharing](https://drive.google.com/file/d/1mW5Smgvey28moRDoE5tcjNmy-Jp1lyDM/view?usp=sharing)
+
+- ⚡ I love to **Write, Think and Read**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
